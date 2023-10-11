@@ -1,6 +1,6 @@
 {
-  "name": "robofriends1",
-  "homepage": "https://makrenko-dev.github.io/robofriends1",
+  "name": "Robofriends",
+  "homepage": "https://makrenko-dev.github.io/Robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
